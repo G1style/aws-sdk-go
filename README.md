@@ -497,4 +497,4 @@ features and AWS services.
 
 [issues]: https://github.com/aws/aws-sdk-go/issues
 [pr]: https://github.com/aws/aws-sdk-go/pulls
-[license]: http://aws.amazon.com/apache2.0/
+[license]:http://aws.amazon.com/apache2.0/
